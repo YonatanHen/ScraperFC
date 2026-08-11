@@ -115,6 +115,9 @@ Germany Womens Bundesliga:
   FBREF:
     history url: https://fbref.com/en/comps/183/history/Frauen-Bundesliga-Seasons
     finders: ['Frauen-Bundesliga']
+Israel Ligat haAl:
+  SOFASCORE: 266
+  TRANSFERMARKT: https://www.transfermarkt.us/ligat-haal/startseite/wettbewerb/ISR1
 Italy Serie A:
   CAPOLOGY: it/serie-a
   FBREF:
